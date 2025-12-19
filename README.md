@@ -77,35 +77,6 @@ Results-driven **Data Engineer** with expertise in designing, developing, and ma
 
 ---
 
-## 💼 Professional Experience
-
-### Data Engineer @ Capital Group
-**San Antonio, TX | May 2025 - Present**
-
-- Analyzed and cataloged 500+ legacy Oracle tables, migrating to Azure SQL Database with 20% reduction in data redundancy
-- Built scalable ETL frameworks using Azure Databricks (Spark), cutting processing time by 30% and storage costs by 25%
-- Implemented CI/CD pipelines with GitHub Actions and Azure DevOps using Terraform
-- Developed data quality framework, reducing data errors by 25% and increasing data freshness by 10%
-- Integrated Azure AI Search for metadata indexing and intelligent document retrieval
-
-### Data Engineer @ Fiserv
-**Dallas, TX | Jun 2022 - May 2025**
-
-- Designed scalable ETL/ELT pipelines processing 10TB+ daily using Apache Spark and Azure Databricks
-- Implemented data-streaming solutions using Kafka and ADF for low-latency processing
-- Built data quality validation frameworks ensuring high-integrity datasets
-- Developed predictive analytics models using Python and SQL, increasing forecast accuracy by 12%
-- Collaborated with data science teams to deploy ML models using scikit-learn
-
-### Data Analyst @ Verzeo
-**Bengaluru, India | May 2021 - Dec 2021**
-
-- Developed Python-based ETL pipeline using AWS Glue and Apache Spark, processing 100GB+ daily
-- Built AWS Lambda functions to automate transformations and workflow triggers
-- Optimized database performance across PostgreSQL and MongoDB
-
----
-
 ## 🎯 Featured Projects
 
 ### Analyzing Stock Market Dataset Using Apache Kafka
@@ -134,14 +105,6 @@ Results-driven **Data Engineer** with expertise in designing, developing, and ma
 
 ---
 
-## 🎓 Education
-
-**Master of Science in Information Technology**  
-*University of The Cumberlands, Williamsburg, KY*  
-*Jan 2022 - Dec 2023*
-
----
-
 ## 🏅 Certifications
 
 - **Azure Data Engineer Associate** - Microsoft
@@ -153,9 +116,17 @@ Results-driven **Data Engineer** with expertise in designing, developing, and ma
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=yaswanth-wuyyuru&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yaswanth-wuyyuru&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth-wuyyuru&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=yaswanth-wuyyuru&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" />
+</div>
+
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth-wuyyuru&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=default&langs_count=10&size_weight=0.5&exclude_repo=github-readme-stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth-wuyyuru&theme=dark&hide_border=false" />
+</div>
 
 ---
 
@@ -168,7 +139,9 @@ Results-driven **Data Engineer** with expertise in designing, developing, and ma
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=yaswanth-wuyyuru&icon=0&color=0" alt="Profile Views" />
+  
+  ![Profile Views](https://visitcount.itsvg.in/api?id=yaswanth-wuyyuru&icon=5&color=1&labelColor=0&titleColor=1&edge_flat=false)
+  
 </div>
 
 ---
