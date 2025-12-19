@@ -95,8 +95,8 @@ Results-driven **Data Engineer** with expertise in designing, developing, and ma
 - Secured access with Azure Key Vault & RBAC for compliance
 
 ### Spotify ETL Project
-- Developed AWS ETL pipeline for Spotify API, processing 10M records daily
-- Improved processing speed by 40% and reduced costs by $10K annually
+- Developed AWS ETL pipeline for Spotify API, processing records daily
+- Improved processing speed by 40%
 - Enabled real-time analytics using Glue and Athena
 
 ### Telecommunications Customer Classification Model
