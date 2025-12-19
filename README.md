@@ -121,10 +121,6 @@ Results-driven **Data Engineer** with expertise in designing, developing, and ma
 </div>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth-wuyyuru&theme=dark&hide_border=false&include_all_commits=true&count_private=false&langs_count=10" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth-wuyyuru&theme=dark&hide_border=false" />
 </div>
 
